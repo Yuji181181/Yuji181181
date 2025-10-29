@@ -8,6 +8,8 @@
 <img src="https://img.shields.io/badge/-TensorFlow-ff8c00.svg?logo=tensorflow&style=plastic"> <img src="https://img.shields.io/badge/-Scikit%20learn-ffa500.svg?logo=scikit%20learn&style=plastic"> <img src="https://img.shields.io/badge/-Statsmodels-4169e1.svg?logo=&style=plastic">  
 <img src="https://img.shields.io/badge/-PyTorch-ff4500.svg?logo=pytorch&style=plastic"> <img src="https://img.shields.io/badge/-Transformers-f0f8ff.svg?logo=hugging%20face&style=plastic">
 
-
-### Certification:
+### Certifications:
 - 統計検定2級 (2025/3 取得)
+
+### Experiences:
+- 松尾研 AIと半導体講座2025 修了
