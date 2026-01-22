@@ -31,3 +31,5 @@
 - Stable diffusion
 - AIと社会課題の考察(Qiita参照)
 - LLMアプリケーションのセキュリティ
+
+### Contact: hasegawa.iniad@gmail.com
