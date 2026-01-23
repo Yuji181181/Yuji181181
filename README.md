@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/-diffusers-fffafa.svg?logo=hugging%20face&style=plastic">
 
 
-### Certifications and Experiences:
+### Certifications and Experience:
 
 - 統計検定2級 2025/3取得
 - NAXA株式会社 長期インターン 2025/9~
