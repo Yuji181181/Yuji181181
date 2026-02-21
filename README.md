@@ -32,4 +32,11 @@
 - AIと社会課題の考察(Qiita参照)
 - LLMアプリケーションのセキュリティ
 
+### Article
+
+- AIと社会課題に関する考察・情報発信：
+https://qiita.com/Yuji181181
+- 参加・体験記：
+https://zenn.dev/yuji181181
+
 ### Contact: hasegawa.iniad@gmail.com
