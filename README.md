@@ -17,20 +17,24 @@
 <img src="https://img.shields.io/badge/-diffusers-fffafa.svg?logo=hugging%20face&style=plastic">
 
 
-### Certifications and Experience:
+### Certifications:
 
-- 統計検定2級 2025/3取得
-- NAXA株式会社 長期インターン 2025/9~
-- 松尾研 AIと半導体講座2025 修了
-- 松尾研 大規模言語モデル基礎編2025 修了
-- セキュリティ・キャンプ2026コネクト AIレッドチーミングクラス 3/26~3/29
+- 統計検定2級 2025/3 取得
+- 東大松尾研 AIと半導体講座2025 修了
+- 東大松尾研 大規模言語モデル基礎編2025 修了
+- セキュリティ・キャンプ2026コネクト AIレッドチーミングクラス 修了
+
+### Experience:
+
+- NAXA株式会社 長期インターン (機械学習エンジニア、ソフトウェアエンジニア)
+- 株式会社メドレー 就業型インターン (AIエンジニア)
+- 株式会社3-shake 短期インターン (ソフトウェアエンジニア)
 
 ### Recent interests:
 
 - Stable diffusionの事後学習(ControlNet,ToonCrafter)
 - AIセキュリティ(マルチAIエージェントシステムの脅威、脆弱性)
 - AWS,サーバーなどのインフラ構築
-- 
 
 ### Article:
 
