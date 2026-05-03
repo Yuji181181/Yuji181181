@@ -27,10 +27,10 @@
 
 ### Recent interests:
 
-- 生成モデルの事後学習
-- Stable diffusionの応用
-- AIと社会課題の考察(Qiita参照)
-- LLMアプリケーションのセキュリティ
+- Stable diffusionの事後学習(ControlNet,ToonCrafter)
+- AIセキュリティ(マルチAIエージェントシステムの脅威、脆弱性)
+- AWS,サーバーなどのインフラ構築
+- 
 
 ### Article:
 
@@ -39,7 +39,7 @@ https://qiita.com/Yuji181181
 - 参加・体験記：
 https://zenn.dev/yuji181181
 
-### Detailed slides:
+### 1on1 slides:
 https://docs.google.com/presentation/d/1liur-qSEgxY1D2xk385sGUSD7fStvFchjxUlFcBi5tk/edit?usp=sharing
 
 ### Contact:
