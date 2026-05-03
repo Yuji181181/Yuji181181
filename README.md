@@ -43,4 +43,5 @@ https://zenn.dev/yuji181181
 https://docs.google.com/presentation/d/1liur-qSEgxY1D2xk385sGUSD7fStvFchjxUlFcBi5tk/edit?usp=sharing
 
 ### Contact:
-hasegawa.iniad@gmail.com
+hasegawa.iniad@gmail.com  
+https://x.com/a_su114514
