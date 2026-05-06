@@ -34,7 +34,7 @@
 
 - Stable diffusionの事後学習(ControlNet,ToonCrafter)
 - AIセキュリティ(マルチAIエージェントシステムの脅威、脆弱性)
-- AWS,サーバーなどのインフラ構築
+- AWS,サーバーなどのインフラ構築、分散システム
 
 ### Article:
 
