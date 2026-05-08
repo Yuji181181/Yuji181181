@@ -17,14 +17,14 @@
 <img src="https://img.shields.io/badge/-diffusers-fffafa.svg?logo=hugging%20face&style=plastic">
 
 
-### Certifications:
+### Certifications and Experience:
 
 - 統計検定2級 2025/3 取得
 - 東大松尾研 AIと半導体講座2025 修了
 - 東大松尾研 大規模言語モデル基礎編2025 修了
 - セキュリティ・キャンプ2026コネクト AIレッドチーミングクラス 修了
 
-### Experience:
+### Internship:
 
 - NAXA株式会社 長期インターン (機械学習エンジニア、ソフトウェアエンジニア)
 - 株式会社メドレー 就業型インターン (AIエンジニア)
