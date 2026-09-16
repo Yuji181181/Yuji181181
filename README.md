@@ -49,6 +49,9 @@ https://zenn.dev/yuji181181
 ### 1on1 slides:
 https://docs.google.com/presentation/d/1liur-qSEgxY1D2xk385sGUSD7fStvFchjxUlFcBi5tk/edit?usp=sharing
 
+### website:
+https://yuji181181.pages.dev/
+
 ### Contact:
 hasegawa.iniad@gmail.com  
 https://x.com/a_su114514
